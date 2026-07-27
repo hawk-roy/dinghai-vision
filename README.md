@@ -1,6 +1,6 @@
 # Dinghai Vision
 
-[English](README.md) | [中文](README.zh-CN.md)
+**English** | [中文](README.zh-CN.md)
 
 Dinghai Vision is an experimental AI aquarium vision monitoring project.
 

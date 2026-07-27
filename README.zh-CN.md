@@ -1,6 +1,6 @@
 # 定海灵眸 Dinghai Vision
 
-[English](README.md) | [中文](README.zh-CN.md)
+[English](README.md) | **中文**
 
 Dinghai Vision 是一个实验性的 AI 鱼缸视觉监控项目。
 
