@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Collected data
+output_data/
+output_video/
+data/
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.avi
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Configuration and keys
+.env
+*.key
+*.pem
+config.local.yaml
