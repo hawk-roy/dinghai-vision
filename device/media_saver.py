@@ -18,7 +18,7 @@ class MediaSaver:
 
     def _get_timestamp(self) -> str:
         """生成与你原逻辑一致的时间戳"""
-        return datetime.now().strftime("%Y%m%d_%H%M%S")
+        return datetime.now().strftime("%Y%m%d_%H%M%S_%f")[:-3]
 
     def save_image(self, image_array: np.ndarray, sub_dir="", prefix="color", ext="png") -> str:
         """
